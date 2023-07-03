@@ -7,7 +7,7 @@
 ## 安装:
 
 ```shell
-go get -u github.com/Skyenought/filesystem
+go get -u github.com/jibenliu/filesystem
 ```
 
 ## 简易使用示例:
